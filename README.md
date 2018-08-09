@@ -9,6 +9,6 @@ OriginalName, StandardizedName, Location, Rating.
 
 OriginalName refers to the name that is crawled from the raw input.
 StandardizedName refers to the name after the transformation by our
-service.
+service
 
 
